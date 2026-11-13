@@ -4,6 +4,17 @@ Bot gratuito para operar opciones sobre los índices sintéticos de Deriv (Volat
 
 Lo hizo Jorge Valencia · Automatizaciones.
 
+## Por qué Thais Nexus
+
+- **Gratis.** No pagas licencia ni suscripción.
+- **Te conectas con tu cuenta oficial de Deriv.** Inicias sesión en la página de Deriv y autorizas el bot. Nunca ve tu contraseña y solo puede operar: no puede retirar ni mover tu dinero.
+- **Sesiones que se detienen solas.** Pones una meta y un límite, y el bot para al llegar a cualquiera de los dos. No tienes que estar mirando la pantalla.
+- **Stop Loss real.** La martingala nunca pasa el límite que configuraste: si el siguiente importe no cabe, vuelve al stake inicial o se detiene.
+- **Cuatro tipos de contrato:** Even/Odd, Rise/Fall, Over/Under y Matches/Differs, en piloto automático o eligiendo tú cuáles.
+- **Pruébalo sin riesgo en DEMO** todo el tiempo que quieras antes de usar dinero real.
+- **Transparente.** Mostramos sesiones reales grabadas, las buenas y la mala, sin recortes.
+- **Se actualiza.** El bot te avisa al abrirlo cuando sale una versión nueva.
+
 ## Descarga
 
 Descarga la última versión en **[Releases](../../releases/latest)**. Son dos archivos: `ThaisNexus.exe` y `LEEME.txt`.
@@ -27,7 +38,7 @@ Cuando sale una versión nueva, el bot te avisa al abrirlo.
 
 ## Cómo se ve en la práctica
 
-Grabamos 10 sesiones seguidas en DEMO, con meta de +$1 y límite de −$20. Ahí están las capturas de todas, las buenas y la mala, junto con lo que se puede esperar a largo plazo: **[Thais Nexus por sesiones](SESIONES.md)**.
+8 de cada 10 sesiones llegan a la meta de +$1 en pocos minutos, y las que no se detienen en el límite que tú elegiste. Mira las 10 sesiones que grabamos en DEMO, con la captura de cada una: **[Thais Nexus por sesiones](SESIONES.md)**.
 
 ## Requisitos
 
