@@ -25,6 +25,10 @@ Get-FileHash ThaisNexus.exe
 
 Cuando sale una versión nueva, el bot te avisa al abrirlo.
 
+## Cómo se ve en la práctica
+
+Grabamos 10 sesiones seguidas en DEMO, con meta de +$1 y límite de −$20. Ahí están las capturas de todas, las buenas y la mala, junto con lo que se puede esperar a largo plazo: **[Thais Nexus por sesiones](SESIONES.md)**.
+
 ## Requisitos
 
 - Windows 10 u 11. No hace falta instalar Python ni nada más.
